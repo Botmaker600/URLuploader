@@ -1,8 +1,8 @@
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Made from [AnyDLBot](https://github.com/thantzinmyothant1)
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [prgofficial](https://telegram.dog/prgofficial)
+#### If you find any bugs, report to [prgofficial](https://github.com/thantzinmyothant1)
 
 ### Features
 
@@ -20,11 +20,11 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**Upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**Upgrade** your subscription for [@DoubleT2245](https://t.me/DoubleT2245) without having to run anything on your own
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/prgofficial/URLuploader-With-Hotstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/thantzinmyothant1/URLuploader/)
 
 #### Run in your VPS
 ```sh
