@@ -6,9 +6,9 @@
     "url",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/prgofficial",
-  "repository": "https://github.com/prgofficial/URLuploader-With-Hotstar",
+  "success_url": "https://www.facebook.com/doubleT2245/",
+  "website": "https://github.com/thantzinmyothant1",
+  "repository": "https://github.com/thantzinmyothant1/URLuploader",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
