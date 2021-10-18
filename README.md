@@ -2,7 +2,7 @@
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [prgofficial](https://github.com/thantzinmyothant1)
+#### If you find any bugs, report to [Thant Zin Myo Thant](https://github.com/thantzinmyothant1)
 
 ### Features
 
